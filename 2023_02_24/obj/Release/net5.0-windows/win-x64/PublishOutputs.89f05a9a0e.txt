@@ -1,0 +1,2 @@
+C:\c-LJJ\c-LJJ\C#\2023_02_24\2023_02_24\bin\Release\net5.0-windows\publish\win-x64\2023_02_24.pdb
+C:\c-LJJ\c-LJJ\C#\2023_02_24\2023_02_24\bin\Release\net5.0-windows\publish\win-x64\2023_02_24.exe
